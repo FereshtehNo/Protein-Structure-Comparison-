@@ -15,12 +15,6 @@ This repository is dedicated to scripts and methodologies for comparing the stru
 ## Installation and Usage ⚙️
 Instructions on setting up the environment, installing necessary dependencies, and a step-by-step guide on how to use the scripts for protein structure comparison.
 
-## Contributing 🤝
-Guidelines for how to contribute to the project, report issues, and submit pull requests.
-
-## License 📄
-Information on the license under which this project is released, ensuring that users know how they can use and distribute the work.
-
 ## Contact 📬
 
 Fereshteh Noroozi - [@LinkedIn](https://ir.linkedin.com/in/fereshteh-noroozi-a90886118?original_referer=https%3A%2F%2Fwww.google.com%2F) 
